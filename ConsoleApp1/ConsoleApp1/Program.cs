@@ -20,6 +20,8 @@ namespace ConsoleApp1
             func1();
             //call test func from hp
             func1();
+            //call test func from acer by 2
+            func1();
 
             //call Ref returns and locals 
             int[] num = { 1, 3, 5 };

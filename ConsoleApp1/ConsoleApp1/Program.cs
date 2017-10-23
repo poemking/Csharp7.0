@@ -16,7 +16,9 @@ namespace ConsoleApp1
 
             //call local func
             func1();
-            //call test func
+            //call test func from acer
+            func1();
+            //call test func from hp
             func1();
 
             //call Ref returns and locals 

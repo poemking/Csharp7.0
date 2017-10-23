@@ -21,7 +21,7 @@ namespace ConsoleApp1
             //call test func from hp
             func1();
             //call test func from acer by 2
-            func1();
+            //delete func1 from hp
 
             //call Ref returns and locals 
             int[] num = { 1, 3, 5 };

@@ -16,6 +16,8 @@ namespace ConsoleApp1
 
             //call local func
             func1();
+            //call test func
+            func1();
 
             //call Ref returns and locals 
             int[] num = { 1, 3, 5 };
